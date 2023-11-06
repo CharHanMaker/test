@@ -2,3 +2,4 @@
 
 - ryosk dayo
 - tomix dayo
+- mitayo
